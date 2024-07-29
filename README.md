@@ -34,7 +34,7 @@ DB설계, API명세서 설계, Figma 디자인, FrontEnd page randering, Routing
   - TypeScript
 
 # DB구성 쿼리 
-- ![](DDL.sql)
+- ![sql](DDL.sql)
 # 코드참조
 - [Sourcecode.txt](https://github.com/dhflekddy/MYWorkoutProject)
   
